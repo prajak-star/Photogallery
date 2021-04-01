@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+}
+#mycarousel img{
+    height: 600px;
+}
+#mycarousel2 img{
+    height: 600px;
+}
+#mycarousel3 img{
+    height: 600px;
+}
+#mycarousel4 img{
+    height: 600px;
+}
+#mycarousel{
+    background:linear-gradient(#fc5e03 0%,#c603fc 100%);
+    height: 700px;
+}
+#mycarousel2 {
+    background:linear-gradient(#13f2d5 0%,#4d088a 100%);
+     height: 700px;
+}
+#mycarousel3 {
+    background:linear-gradient(#c70c28 0%,#0a1dab 100%);
+     height: 700px;
+}
+#mycarousel4 {
+    background:linear-gradient(#12960b 0%,#96650b 100%);
+     height: 700px;
+}
+h1{
+    background:#f26d93;
+}
+.grid{
+    height: 900px;
+    background:linear-gradient(#6fd68b 0%,#cd6fd6 100%)
+}
+
